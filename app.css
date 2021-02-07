@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main
+{
+    margin: 10px 50px;
+    padding: 5px;
+    background-color: blueviolet;
+    color: white;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
